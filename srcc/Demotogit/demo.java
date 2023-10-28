@@ -5,7 +5,7 @@ public class demo {
 		
 	}
 
- Bhartisprint6
+ 
 	public static void main(String[]args) {
 			int localgit;
 			double gitStaging;
