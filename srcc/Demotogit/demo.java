@@ -1,16 +1,15 @@
 package Demotogit;
 
 public class demo {
-	public static void main(String[]args) {
-		
-	}
-
- 
-	public static void main(String[]args) {
-			int localgit;
+	
+            int localgit;
 			double gitStaging;
 			static int bharti;
+			public static void main(String[]args) {
+			}
 
+		public void creaditCardDetailFromDB() {
 
+		}
 
-}
+		}
